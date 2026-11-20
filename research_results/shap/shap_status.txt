@@ -1,0 +1,6 @@
+SHAP analysis completed successfully.
+Model: LightGBM
+Training sample: 150000
+Explained held-out reports: 500
+Random state: 42
+Features: 115
